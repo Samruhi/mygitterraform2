@@ -1,2 +1,2 @@
 # mygitterraform2
-My second terraform gitrepo
+My second terraform gitrepo manual
